@@ -9,6 +9,8 @@ More information about cooking your self compiler on the official [repo](https:/
 
 Compiled on Debian 12 toward 64 bits and 32 bits architecture.
 
+Download [here](https://drive.google.com/drive/folders/11C1n7rLyf0IovMW2e5B_ucTmM_tOaJCT?usp=sharing)
+
 ---
 
 ### Exemple uses
